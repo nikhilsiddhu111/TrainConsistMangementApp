@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class UC8 {
+public class UC9 {
 
 
     static class Bogie {
@@ -18,6 +18,9 @@ public class UC8 {
         }
         public String toString() {
             return name + " -> " + capacity;
+        }
+        public String getName() {
+            return name;
         }
 
     }
