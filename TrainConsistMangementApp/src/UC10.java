@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
-public class UC9 {
+public class UC10 {
 
 
     static class Bogie {
